@@ -1,0 +1,7 @@
+.container{
+    display: grid;
+    padding: 10px;
+    padding-right: 10px;
+    align-items: center;
+    background-color: blueviolet;
+}
